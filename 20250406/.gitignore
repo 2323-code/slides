@@ -1,0 +1,4 @@
+debug/
+target/
+guessin_game/
+**/*.rs.bk
